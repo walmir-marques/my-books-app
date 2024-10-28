@@ -24,7 +24,7 @@ O My Book App é uma aplicação web desenvolvida com React que oferece uma inte
 - Interface rápida e responsiva <br><br>
 
 
-# 🖥️ Como Executar o Projeto <br><br>
+## 🖥️ Como Executar o Projeto <br><br>
 Clone o repositório:
 
 ```git clone https://github.com/seu-usuario/my-book-app.git```<br><br>
